@@ -7,7 +7,7 @@ class Main {
     System.out.print("一言入力してください：");
     String inputText = scanner.next();
 
-    System.out.println("入力結果" + inputText);
+    System.out.println("入力結果：" + inputText);
   }
 }
 
