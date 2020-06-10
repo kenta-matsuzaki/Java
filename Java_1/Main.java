@@ -1,4 +1,3 @@
-// test
 public class Main {
   public static int add(int x , int y){
     int ans = x + y;
